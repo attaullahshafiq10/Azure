@@ -17,7 +17,6 @@ urlFragment: "azure-sql-db-secure-data-access-api"
 
 # Creating API to securely access data using Azure SQL Row Level Security
 
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 <!-- 
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
